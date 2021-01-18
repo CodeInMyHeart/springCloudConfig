@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/springcloud?serverTimezone=Asia/Shanghai&useSSL=false
     username: root
-    password: root
+    password: roo
     driver-class-name: com.mysql.cj.jdbc.Driver
     
     
